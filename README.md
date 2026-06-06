@@ -21,7 +21,6 @@ Bu proje, Java programlama dili ve Swing kütüphanesi kullanılarak geliştiril
 ## 📂 Dosya Yapısı ve Kurulum
 Projenin sorunsuz çalışabilmesi için `C:\` ana dizininde aşağıdaki dosya hiyerarşisinin bulunması gerekmektedir:
 
-```text
 C:\
  └── P2Oyun\
      ├── Resimler\
@@ -31,7 +30,6 @@ C:\
          ├── log.txt
          ├── oyunlar.txt
          └── sifre.txt
-
 📸 Ekran Görüntüleri
 Şifre Giriş Ekranı
 
@@ -45,3 +43,4 @@ Eski Skorlar ve Log Kayıtları Tablosu
 
 <img width="1029" height="589" alt="Ekran görüntüsü 2026-06-06 180325" src="https://github.com/user-attachments/assets/d81055ef-a7e7-4efc-9289-fa5d50cb1ee6" />
 <img width="1029" height="587" alt="Ekran görüntüsü 2026-06-06 180340" src="https://github.com/user-attachments/assets/b9043fd3-1758-49c3-9299-73524811b262" />
+
