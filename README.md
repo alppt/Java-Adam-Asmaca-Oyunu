@@ -30,6 +30,8 @@ C:\
          ├── log.txt
          ├── oyunlar.txt
          └── sifre.txt
+
+
 📸 Ekran Görüntüleri
 Şifre Giriş Ekranı
 
